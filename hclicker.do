@@ -1,0 +1,20 @@
+[REPEAT 10]
+::1
+[clicker.do]
+[WAIT 30000]
+[WAIT 30000]
+[WAIT 30000]
+[WAIT 30000]
+[WAIT 30000]
+[WAIT 30000]
+::2
+[clicker.do]
+[WAIT 30000]
+[WAIT 30000]
+[WAIT 30000]
+[WAIT 30000]
+::3
+[clicker.do]
+[WAIT 30000]
+[WAIT 30000]
+[/REPEAT]

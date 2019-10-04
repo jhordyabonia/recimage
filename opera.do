@@ -1,0 +1,16 @@
+::OPEN
+::KILL
+[SYSTEM RUN],[WAIT 1000],taskkill /im opera.exe,[ENTER/],[WAIT 5000]
+::KILL
+[SYSTEM RUN],opera /private,[ENTER/],[WAIT 5000]
+::OPEN
+::VPN
+[WAIT 5000]
+[F6/],[F6/],[F6/],[WAIT 1000]
+[TAB/],[WAIT 400],[TAB/],[WAIT 100],  ::300
+[ESCAPE/],[WAIT 400],[F5/]
+[WAIT 5000]
+::VPN
+::ATRAS
+[F5/],[WAIT 4567],[F6/],[WAIT 123], ::100,
+::ATRAS

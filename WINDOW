@@ -1,0 +1,48 @@
+::WINDOWS last madificayion: 12/10/2012-16:16
+::AUTOR JHORDY ABONIA GUAZA
+::ULTIMO EDITOR  JHORDY ABONIA GUAZA
+::START
+
+::Maximizar Desminizar->Maximizar
+::UP
+[WINDOWS]
+[UP/]
+[/WINDOWS]
+::UP
+
+::Minimaz tamaño->Minimizar total
+::DOWN
+[WINDOWS]
+[DOWN/]
+[/WINDOWS]
+::DOWN
+:Ocultar Mostar el esctoria
+::DESKTOP
+[SYSTEM DESKTOP]
+::DESKTOP
+
+::Cerrar Pestañas
+::CLOSE
+[CONTROL]
+W
+[/CONTROL]
+::CLOSE
+
+::Ventana a la Izq 
+::LEFT
+[WINDOWS]
+[LEFT/]
+[/WINDOWS]
+::LEFT
+
+::Ventana a la Izq
+::RIGHT
+[WINDOWS]
+[RIGHT/]
+[/WINDOWS]
+::RIGHT
+
+::Ventana ,pantalla completa
+::FULL
+[F11/]
+::FULL
